@@ -1,5 +1,24 @@
 # Changelog
 
+## [2025.2.2](https://github.com/jdx/mise/compare/v2025.2.1..v2025.2.2) - 2025-02-06
+
+### 🚀 Features
+
+- add support for idiomatic go.mod file by [@roele](https://github.com/roele) in [#4312](https://github.com/jdx/mise/pull/4312)
+
+### 🚜 Refactor
+
+- **(registry)** use aqua for yq by [@scop](https://github.com/scop) in [#4326](https://github.com/jdx/mise/pull/4326)
+
+### 📚 Documentation
+
+- **(schema)** fix description of task.dir default by [@risu729](https://github.com/risu729) in [#4324](https://github.com/jdx/mise/pull/4324)
+- Add PowerShell example by [@jahanson](https://github.com/jahanson) in [#3857](https://github.com/jdx/mise/pull/3857)
+
+### New Contributors
+
+- @jahanson made their first contribution in [#3857](https://github.com/jdx/mise/pull/3857)
+
 ## [2025.2.1](https://github.com/jdx/mise/compare/v2025.2.0..v2025.2.1) - 2025-02-03
 
 ### Chore
